@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "anchors",
+	"simple-page-toc"
+    ],
+    "pluginsConfig": {
+	 "simple-page-toc":{
+            "maxDepth": 7,
+            "skipFirstH1": true
+   	 }
+    }
+}
